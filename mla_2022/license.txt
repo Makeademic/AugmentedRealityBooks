@@ -1,0 +1,11 @@
+Model Information:
+* title:	MLA 2022
+* source:	https://sketchfab.com/3d-models/mla-2022-1a27c3407a3c41cd8687b8fe4e739315
+* author:	makeademic (https://sketchfab.com/makeademic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MLA 2022" (https://sketchfab.com/3d-models/mla-2022-1a27c3407a3c41cd8687b8fe4e739315) by makeademic (https://sketchfab.com/makeademic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
